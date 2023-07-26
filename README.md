@@ -1,5 +1,8 @@
-# React Starter Project Using Tailwind CSS.
-![](video.mp4)
+# React Starter Project Using Tailwind CSS
+
+
+https://github.com/raghavnarula/React-Weather-App/assets/48481966/b8cf9188-9956-469d-b779-ec7d56cc5c22
+
 
 # Getting Started with Create React App
 
